@@ -1,0 +1,4 @@
+20231013	19:29:08	3d2c225b-0d45-4d39-a7fa-f89fb4f16b5d	/new-page.html	GET
+20231013	19:29:45	f7ded8fe-c385-4faa-8256-d7f4b8bffa13	/new-page.html	GET
+20231013	19:29:45	62ed3590-c9aa-408f-ba40-20fa76fc527e	/css/style.css	GET
+20231013	19:29:45	929e6e95-8d60-4507-88e8-60683a3ace82	/img/img1.jpg	GET

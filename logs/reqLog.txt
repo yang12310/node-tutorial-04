@@ -36,3 +36,10 @@
 20231016	21:51:09	0aa3e2c1-6168-4a52-8c1f-705af5ebb454	GET	undefined	/
 20231016	21:51:09	34068881-7413-4634-a610-8222bcb7da58	GET	undefined	/css/style.css
 20231016	21:51:09	ee7b8fbc-794d-4670-83ab-809798774e67	GET	undefined	/favicon.ico
+20231018	19:29:12	7bfd8ce4-274a-4d07-8080-ab8fc5993b16	GET	undefined	/employees
+20231018	19:30:14	e65be884-d7cb-428f-97b5-61275962b133	POST	undefined	/employees
+20231018	19:31:20	97de6ddf-7241-4296-a5ba-b03177be2c0c	PUT	undefined	/employees
+20231018	19:31:57	21d1f7aa-5bbe-48f9-bab4-e84e9c5f28fd	DELETE	undefined	/employees/
+20231018	19:32:37	222bf9d4-079d-4f07-86bd-57d4e72c3eb8	GET	undefined	/employees/1
+20231018	19:32:46	aac7e6ec-d18c-4413-a276-d834049426b9	GET	undefined	/employees/3
+20231018	19:32:51	2211d4cd-2fbb-476b-94c5-01b614ca9666	GET	undefined	/employees/2
